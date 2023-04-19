@@ -1,0 +1,4 @@
+staffNo,fullName,department,role,emailAddress,salary
+123,Dedenne,Stealing,manager,dede@gmail.com,1150
+87,Morpeko,Eating,manager,peko@gmail.com,8787
+777,Toge,Round,manager,toge@gmail.com,999
